@@ -1,4 +1,4 @@
-# Windows_Battery_Report_Tool
+# Windows Battery Report Tool
 
 A tool that executes the ```powercfg /batteryreport``` command, while also automatically open and delete the file when done.
 
